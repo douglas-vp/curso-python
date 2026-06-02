@@ -27,7 +27,6 @@ O objetivo é servir como material de estudo, consulta rápida e prática para q
 - [Funções](#funções)
 - [Módulos e biblioteca padrão](#módulos-e-biblioteca-padrão)
 - [Conclusão](#conclusão)
-- [Tecnologias utilizadas nos exemplos](#tecnologias-utilizadas-nos-exemplos)
 - [Autor](#autor)
 
 ---
