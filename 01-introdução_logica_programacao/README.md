@@ -16,7 +16,6 @@ O objetivo é apresentar uma base simples e didática para quem está começando
 * [Estruturas condicionais](#estruturas-condicionais)
 * [Estruturas de repetição](#estruturas-de-repetição)
 * [Métodos e funções](#métodos-e-funções)
-* [Exemplos práticos](#exemplos-práticos)
 * [Boas práticas](#boas-práticas)
 * [Conclusão](#conclusão)
 
@@ -448,100 +447,6 @@ resultado = calcular_media(8, 7, 9, 6)
 
 print("Média:", resultado)
 ```
-
----
-
-## Exemplos práticos
-
-### Exemplo 1: calcular média de notas
-
-```python
-nota1 = float(input("Digite a primeira nota: "))
-nota2 = float(input("Digite a segunda nota: "))
-nota3 = float(input("Digite a terceira nota: "))
-nota4 = float(input("Digite a quarta nota: "))
-
-media = (nota1 + nota2 + nota3 + nota4) / 4
-
-print("Média:", media)
-
-if media >= 7:
-    print("Aluno aprovado")
-elif media >= 5:
-    print("Aluno em recuperação")
-else:
-    print("Aluno reprovado")
-```
-
----
-
-### Exemplo 2: verificar se precisa comprar batatas
-
-Objetivo: uma receita precisa de 10 batatas. O programa verifica quantas existem em casa e calcula quantas precisam ser compradas.
-
-```python
-batatas_disponiveis = int(input("Quantas batatas existem em casa? "))
-
-batatas_necessarias = 10
-
-quantidade_comprar = batatas_necessarias - batatas_disponiveis
-
-if quantidade_comprar > 0:
-    print("Você precisa comprar", quantidade_comprar, "batatas.")
-else:
-    print("Você já tem batatas suficientes.")
-```
-
----
-
-### Exemplo 3: repetição até atingir uma condição
-
-Objetivo: simular o ajuste de sal em uma receita.
-
-```python
-sal_suficiente = False
-
-while not sal_suficiente:
-    resposta = input("O sal está suficiente? Digite sim ou nao: ")
-
-    if resposta == "sim":
-        sal_suficiente = True
-        print("Tempero finalizado.")
-    else:
-        print("Adicione mais sal e prove novamente.")
-```
-
----
-
-### Exemplo 4: sistema simples de login
-
-```python
-usuario_correto = "admin"
-senha_correta = "1234"
-
-usuario = input("Digite o usuário: ")
-senha = input("Digite a senha: ")
-
-if usuario == usuario_correto and senha == senha_correta:
-    print("Login realizado com sucesso!")
-else:
-    print("Usuário ou senha incorretos.")
-```
-
----
-
-### Exemplo 5: contador regressivo
-
-```python
-contador = 10
-
-while contador >= 1:
-    print(contador)
-    contador -= 1
-
-print("Fim da contagem!")
-```
-
 ---
 
 ## Boas práticas
