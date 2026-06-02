@@ -473,17 +473,6 @@ Com o domínio de conceitos como algoritmos, variáveis, operadores, condicionai
 
 ---
 
-## Tecnologias utilizadas nos exemplos
-
-* Python 3
-* Lógica de programação
-* Algoritmos
-* Estruturas condicionais
-* Estruturas de repetição
-* Funções
-
----
-
 ## Autor
 
 Material organizado para fins de estudo e prática em lógica de programação.
