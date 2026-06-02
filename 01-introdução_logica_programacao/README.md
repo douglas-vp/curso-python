@@ -16,7 +16,6 @@ O objetivo é apresentar uma base simples e didática para quem está começando
 * [Estruturas condicionais](#estruturas-condicionais)
 * [Estruturas de repetição](#estruturas-de-repetição)
 * [Métodos e funções](#métodos-e-funções)
-* [Boas práticas](#boas-práticas)
 * [Conclusão](#conclusão)
 
 ---
@@ -462,23 +461,6 @@ Algumas boas práticas ajudam a escrever códigos mais claros e organizados:
 * Pratique com exemplos do cotidiano;
 * Evite depender apenas de respostas prontas;
 * Busque entender o erro antes de copiar uma solução.
-
----
-
-## Como praticar lógica de programação
-
-Algumas sugestões de exercícios:
-
-1. Criar um algoritmo para calcular a idade de uma pessoa.
-2. Criar um programa que verifica se um número é par ou ímpar.
-3. Criar um programa que calcula o maior entre dois números.
-4. Criar um sistema simples de aprovação de aluno.
-5. Criar um programa que soma números de 1 a 100.
-6. Criar um programa que simula um caixa eletrônico.
-7. Criar um programa que calcula o IMC.
-8. Criar um programa que verifica se uma senha está correta.
-9. Criar um programa que lista os números pares de 1 a 50.
-10. Criar uma função para calcular a média de uma lista de notas.
 
 ---
 
