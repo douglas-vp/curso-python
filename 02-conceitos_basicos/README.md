@@ -948,18 +948,6 @@ Mais importante do que decorar comandos é praticar constantemente, testar hipó
 
 ---
 
-## Tecnologias utilizadas nos exemplos
-
-- Python 3
-- IDE Mu
-- VS Code ou outra IDE de preferência
-- Console Python
-- Scripts com extensão `.py`
-- Biblioteca padrão do Python
-- Módulos como `math`, `random` e `datetime`
-
----
-
 ## Autor
 
 Material organizado para fins de estudo e prática dos conceitos básicos de Python.
