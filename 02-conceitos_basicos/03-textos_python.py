@@ -39,3 +39,5 @@ print(frase[::2])  # Fatiamento com passo 2 (pula um caractere)
 # Len() para obter o comprimento de uma string
 print(len(frase))  # Imprime o número de caracteres na string   
 
+# Help
+help(str)  # Exibe a documentação da classe str (string)
