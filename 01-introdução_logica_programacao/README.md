@@ -1,5 +1,3 @@
-Abaixo está um modelo de `README.md` pronto para usar no GitHub, baseado nos principais conceitos da apostila **Introdução à lógica de programação — Asimov Academy**. 
-
 # Introdução à Lógica de Programação
 
 Este repositório reúne os principais conceitos de **lógica de programação**, com exemplos práticos em **Python**.
